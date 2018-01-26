@@ -1,0 +1,29 @@
+{
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "hellobotforslacktest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Fisher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "1.x.x",
+    "request": "2.56.x",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Adamfisher106/slackhellobot.git"
+  },
+  "keywords": [
+    "slack",
+    "hello",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/Adamfisher106/slackhellobot/issues"
+  },
+  "homepage": "https://github.com/Adamfisher106/slackhellobot#readme"
+}
